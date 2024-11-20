@@ -1,0 +1,10 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\bin\Debug\ClassesForm.exe.config
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\bin\Debug\ClassesForm.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\bin\Debug\ClassesForm.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ClassesForm\obj\Debug\ClassesForm.pdb

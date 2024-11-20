@@ -1,0 +1,10 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb

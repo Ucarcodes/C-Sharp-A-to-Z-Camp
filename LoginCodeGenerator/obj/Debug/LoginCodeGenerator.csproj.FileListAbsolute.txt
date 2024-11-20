@@ -1,0 +1,10 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\bin\Debug\LoginCodeGenerator.exe.config
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\bin\Debug\LoginCodeGenerator.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\bin\Debug\LoginCodeGenerator.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\LoginCodeGenerator\obj\Debug\LoginCodeGenerator.pdb

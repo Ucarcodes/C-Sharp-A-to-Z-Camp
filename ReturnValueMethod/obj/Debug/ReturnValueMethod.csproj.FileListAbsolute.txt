@@ -1,0 +1,10 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\bin\Debug\ReturnValueMethod.exe.config
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\bin\Debug\ReturnValueMethod.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\bin\Debug\ReturnValueMethod.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ReturnValueMethod\obj\Debug\ReturnValueMethod.pdb

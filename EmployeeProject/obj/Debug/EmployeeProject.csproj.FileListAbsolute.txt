@@ -1,0 +1,10 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\bin\Debug\EmployeeProject.exe.config
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\bin\Debug\EmployeeProject.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\bin\Debug\EmployeeProject.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\EmployeeProject\obj\Debug\EmployeeProject.pdb

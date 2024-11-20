@@ -1,0 +1,14 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.AssemblyInfoInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.AssemblyInfo.cs
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\bin\Debug\net8.0\ConstructorMethod2.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\bin\Debug\net8.0\ConstructorMethod2.deps.json
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\bin\Debug\net8.0\ConstructorMethod2.runtimeconfig.json
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\bin\Debug\net8.0\ConstructorMethod2.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\bin\Debug\net8.0\ConstructorMethod2.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\refint\ConstructorMethod2.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ConstructorMethod2.genruntimeconfig.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod2\obj\Debug\net8.0\ref\ConstructorMethod2.dll

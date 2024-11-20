@@ -1,0 +1,14 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.deps.json
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.runtimeconfig.json
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\bin\Debug\net8.0\ConstructorMethod.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.AssemblyInfoInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.AssemblyInfo.cs
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\refint\ConstructorMethod.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ConstructorMethod.genruntimeconfig.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\ConstructorMethod\obj\Debug\net8.0\ref\ConstructorMethod.dll

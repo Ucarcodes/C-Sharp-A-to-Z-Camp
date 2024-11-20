@@ -1,0 +1,11 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\bin\Debug\SendDataBetweenForms.exe.config
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\bin\Debug\SendDataBetweenForms.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\bin\Debug\SendDataBetweenForms.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.Form2.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Projeler Birlikte\CSharpAtoZCamp\SendDataBetweenForms\obj\Debug\SendDataBetweenForms.pdb

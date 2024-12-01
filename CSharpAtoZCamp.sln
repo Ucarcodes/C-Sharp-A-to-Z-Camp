@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnValueMethod", "Return
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesForm", "ClassesForm\ClassesForm.csproj", "{D451D41F-DFB0-4534-83F2-AC2627B4A684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorMethod", "ConstructorMethod\ConstructorMethod.csproj", "{F14265A8-0CCB-485D-BDBE-9F906DBB6D74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorMethod", "ConstructorMethod\ConstructorMethod.csproj", "{F14265A8-0CCB-485D-BDBE-9F906DBB6D74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorMethod2", "ConstructorMethod2\ConstructorMethod2.csproj", "{2871742E-B1B2-41EE-829A-39D70422F65C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorMethod2", "ConstructorMethod2\ConstructorMethod2.csproj", "{2871742E-B1B2-41EE-829A-39D70422F65C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberGenerator", "RandomNumberGenerator\RandomNumberGenerator.csproj", "{2CFFF403-0CBD-46FD-80D2-506F4B261AB6}"
 EndProject
@@ -24,6 +24,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendDataBetweenForms", "SendDataBetweenForms\SendDataBetweenForms.csproj", "{FC828D2B-D0BF-42A2-9BDE-C1B5B37C8283}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeProject", "EmployeeProject\EmployeeProject.csproj", "{B0B374DB-2C92-48E0-8DD2-66D57209BCFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperations", "FileOperations\FileOperations.csproj", "{60141F2A-A23D-42DC-A999-4437983AD29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileCreation", "TextFileCreation\TextFileCreation.csproj", "{60F1D860-E472-46C6-B9E1-0A8FD8CF21CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileReading", "TextFileReading\TextFileReading.csproj", "{C9ECE935-24AE-486A-9AFC-658C56A644DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileCreation2", "TextFileCreation2\TextFileCreation2.csproj", "{D580773B-35E2-4DCE-9C50-ED96947727FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPDF", "OpenPDF\OpenPDF.csproj", "{B4602456-576D-45A3-BF21-CC60236B8888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +85,26 @@ Global
 		{B0B374DB-2C92-48E0-8DD2-66D57209BCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0B374DB-2C92-48E0-8DD2-66D57209BCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0B374DB-2C92-48E0-8DD2-66D57209BCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60141F2A-A23D-42DC-A999-4437983AD29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60141F2A-A23D-42DC-A999-4437983AD29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60141F2A-A23D-42DC-A999-4437983AD29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60141F2A-A23D-42DC-A999-4437983AD29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F1D860-E472-46C6-B9E1-0A8FD8CF21CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F1D860-E472-46C6-B9E1-0A8FD8CF21CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F1D860-E472-46C6-B9E1-0A8FD8CF21CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F1D860-E472-46C6-B9E1-0A8FD8CF21CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ECE935-24AE-486A-9AFC-658C56A644DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ECE935-24AE-486A-9AFC-658C56A644DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ECE935-24AE-486A-9AFC-658C56A644DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ECE935-24AE-486A-9AFC-658C56A644DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D580773B-35E2-4DCE-9C50-ED96947727FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D580773B-35E2-4DCE-9C50-ED96947727FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D580773B-35E2-4DCE-9C50-ED96947727FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D580773B-35E2-4DCE-9C50-ED96947727FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4602456-576D-45A3-BF21-CC60236B8888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4602456-576D-45A3-BF21-CC60236B8888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4602456-576D-45A3-BF21-CC60236B8888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4602456-576D-45A3-BF21-CC60236B8888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

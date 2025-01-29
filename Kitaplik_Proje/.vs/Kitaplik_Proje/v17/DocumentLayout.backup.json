@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Kitaplik_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64F953C-5391-49CC-A793-AAA5CA8EADB1}|Kitaplik_Proje\\Kitaplik_Proje.csproj|c:\\users\\mevlut\\desktop\\udemy c#\\tek tek projeler\\kitaplik_proje\\kitaplik_proje\\frmkitaplik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64F953C-5391-49CC-A793-AAA5CA8EADB1}|Kitaplik_Proje\\Kitaplik_Proje.csproj|solutionrelative:kitaplik_proje\\frmkitaplik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64F953C-5391-49CC-A793-AAA5CA8EADB1}|Kitaplik_Proje\\Kitaplik_Proje.csproj|c:\\users\\mevlut\\desktop\\udemy c#\\tek tek projeler\\kitaplik_proje\\kitaplik_proje\\frmkitaplik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D64F953C-5391-49CC-A793-AAA5CA8EADB1}|Kitaplik_Proje\\Kitaplik_Proje.csproj|solutionrelative:kitaplik_proje\\frmkitaplik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmKitaplik.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Kitaplik_Proje\\Kitaplik_Proje\\FrmKitaplik.cs",
+              "RelativeDocumentMoniker": "Kitaplik_Proje\\FrmKitaplik.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Kitaplik_Proje\\Kitaplik_Proje\\FrmKitaplik.cs",
+              "RelativeToolTip": "Kitaplik_Proje\\FrmKitaplik.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAvwHwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:15:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmKitaplik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Kitaplik_Proje\\Kitaplik_Proje\\FrmKitaplik.cs",
+              "RelativeDocumentMoniker": "Kitaplik_Proje\\FrmKitaplik.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Kitaplik_Proje\\Kitaplik_Proje\\FrmKitaplik.cs [Design]",
+              "RelativeToolTip": "Kitaplik_Proje\\FrmKitaplik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:08:35.258Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

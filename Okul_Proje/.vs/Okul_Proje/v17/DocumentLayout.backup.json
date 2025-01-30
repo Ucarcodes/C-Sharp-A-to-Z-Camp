@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\mevlut\\desktop\\udemy c#\\tek tek projeler\\okul_proje\\okul_proje\\frmogretmenlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmogretmenlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\mevlut\\desktop\\udemy c#\\tek tek projeler\\okul_proje\\okul_proje\\frmogrencilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmogrencilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\mevlut\\desktop\\udemy c#\\tek tek projeler\\okul_proje\\okul_proje\\frmogrencilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmogrencilerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\okul_proje\\frmogretmenlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmogretmenlerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\okul_proje\\frmogretmenislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmogretmenislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\okul_proje\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\okul_proje\\frmkulupler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmkulupler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\okul_proje\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6AB0E-EF21-4EB5-B99F-DC74987470C5}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\frmdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOgretmenlerPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgretmenlerPanel.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmOgretmenlerPanel.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgretmenlerPanel.cs",
+              "RelativeToolTip": "Okul_Proje\\FrmOgretmenlerPanel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:46:15.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOgrencilerPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgrencilerPanel.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmOgrencilerPanel.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgrencilerPanel.cs",
+              "RelativeToolTip": "Okul_Proje\\FrmOgrencilerPanel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:02:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOgrencilerPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgrencilerPanel.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmOgrencilerPanel.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgrencilerPanel.cs [Design]",
+              "RelativeToolTip": "Okul_Proje\\FrmOgrencilerPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:58:51.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOgretmenlerPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgretmenlerPanel.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmOgretmenlerPanel.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgretmenlerPanel.cs [Design]",
+              "RelativeToolTip": "Okul_Proje\\FrmOgretmenlerPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:21:54.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDersler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmDersler.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmDersler.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmDersler.cs [Design]",
+              "RelativeToolTip": "Okul_Proje\\FrmDersler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:17:06.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmKulupler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmKulupler.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmKulupler.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmKulupler.cs [Design]",
+              "RelativeToolTip": "Okul_Proje\\FrmKulupler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:39:03.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDersler.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmDersler.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmDersler.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmDersler.cs",
+              "RelativeToolTip": "Okul_Proje\\FrmDersler.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAvwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:21:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOgretmenIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgretmenIslemleri.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\FrmOgretmenIslemleri.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\Desktop\\Udemy C#\\Tek Tek Projeler\\Okul_Proje\\Okul_Proje\\FrmOgretmenIslemleri.cs [Design]",
+              "RelativeToolTip": "Okul_Proje\\FrmOgretmenIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:21:22.038Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
